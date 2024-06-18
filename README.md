@@ -1,2 +1,2 @@
-# Automacao-de-Mensagem
-Automação de Mensangens
+Automação de Mensagens
+Este projeto realiza a verificação de clientes com boletos a vencer, vencidos e com vencimento no dia. Para cada situação, é feito um tratamento específico e os clientes são comunicados por meio de mensagens personalizadas, enviadas automaticamente para o WhatsApp, contendo informações sobre o vencimento e o valor em atraso.
